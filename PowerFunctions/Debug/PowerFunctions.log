@@ -1,0 +1,14 @@
+﻿  pch.cpp
+  dllmain.cpp
+  PowerFunctions.cpp
+  Generating Code...
+PowerFunctions.def(2): warning LNK4017: mW2dBm statement not supported for the target platform; ignored
+PowerFunctions.def(3): warning LNK4017: dBm2mW statement not supported for the target platform; ignored
+     Creating library C:\Users\Jeremy\source\repos\PowerConversionInBasic\Debug\PowerFunctions.lib and object C:\Users\Jeremy\source\repos\PowerConversionInBasic\Debug\PowerFunctions.exp
+  PowerFunctions.vcxproj -> C:\Users\Jeremy\source\repos\PowerConversionInBasic\Debug\PowerFunctions.dll
+  C:\Users\Jeremy\source\repos\PowerConversionInBasic\Debug\PowerFunctions.dll
+  C:\Users\Jeremy\source\repos\PowerConversionInBasic\Debug\PowerFunctions.exp
+  C:\Users\Jeremy\source\repos\PowerConversionInBasic\Debug\PowerFunctions.ilk
+  C:\Users\Jeremy\source\repos\PowerConversionInBasic\Debug\PowerFunctions.lib
+  C:\Users\Jeremy\source\repos\PowerConversionInBasic\Debug\PowerFunctions.pdb
+          5 file(s) copied.
